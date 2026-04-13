@@ -1,1 +1,7 @@
-# Struktur-Data-TM6_Stack-Application
+# Stack Expression (C++)
+
+Implementasi **stack (LIFO)** untuk:
+
+* Konversi infix → postfix
+* Evaluasi postfix
+* Mendukung multi digit
